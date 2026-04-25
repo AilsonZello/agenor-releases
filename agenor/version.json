@@ -1,0 +1,7 @@
+{
+  "latestVersion": "1.0.0",
+  "downloadUrl": "https://exemplo-para-alterar.zip",
+  "sha256": "hash_do_zip",
+  "mandatory": false,
+  "releaseNotes": "Notas."
+}
