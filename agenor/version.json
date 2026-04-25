@@ -1,7 +1,7 @@
 {
   "latestVersion": "1.0.0",
-  "downloadUrl": "https://exemplo-para-alterar.zip",
-  "sha256": "hash_do_zip",
+  "downloadUrl": "https://github.com/AilsonZello/agenor-releases/releases/download/v1.0.0/agenor-1.0.0.zip",
+  "sha256": "d453d73ab395cf0f3418d22e8a15749cc9bbcfc3e08f9ddeae0e1c6824f505d4",
   "mandatory": false,
   "releaseNotes": "Notas."
 }
